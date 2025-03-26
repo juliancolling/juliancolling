@@ -8,7 +8,7 @@ I'm passionate about using data to uncover insights, solve problems, and support
 
 ## 🧰 Skills & Tools
 
-- **Languages & Libraries**: Python (Pandas, NumPy, OOP), SQL
+- **Languages & Libraries**: Python (Pandas, NumPy), SQL
 - **Data Visualization**: Power BI, Tableau, Plotly, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, Regression, Classification, Clustering, NLP
 - **Tools**: Jupyter Notebook, Streamlit, Git/GitHub, DBMS basics
