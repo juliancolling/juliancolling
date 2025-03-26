@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julian Colling
 
-🎯 **Junior Data Analyst** with hands-on experience in data wrangling, visualization, and AI tools — developed through an intensive 80-day Data Analytics & AI Bootcamp.
+🎯 **Junior Data Analyst** with hands-on experience in data wrangling, visualisation, and AI tools — developed through an intensive 80-day Data Analytics & AI Bootcamp.
 
 I'm passionate about using data to uncover insights, solve problems, and support smarter decision-making. I'm continuously learning and eager to grow under mentorship in real-world environments.
 
@@ -9,18 +9,19 @@ I'm passionate about using data to uncover insights, solve problems, and support
 ## 🧰 Skills & Tools
 
 - **Languages & Libraries**: Python (Pandas, NumPy), SQL
-- **Data Visualization**: Power BI, Tableau, Plotly, Matplotlib, Seaborn
+- **Data Visualisation**: Power BI, Tableau, Plotly, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, Regression, Classification, Clustering, NLP
 - **Tools**: Jupyter Notebook, Streamlit, Git/GitHub, DBMS basics
 - **Business & Strategy**: A/B Testing, Data Storytelling, KPI Analysis
 - **Ethics in AI**: Bias handling, governance, and responsible AI practices
+- **Team Collaboration**: Applied the **Agile methodology** throughout the bootcamp — including sprint-based project work, peer collaboration, regular feedback loops, and group retrospectives during hackathons and the capstone project
 
 ---
 
 ## 🧪 Projects
 
 - **Formula1**
-  - *Capstone project analyzing Formula 1 data from 1999 to 2024.*
+  - *Capstone project analysing Formula 1 data from 1999 to 2024.*
   - [GitHub Repository](https://github.com/juliancolling/Formula1)
 
 - **Online Retail Sales Analysis**
