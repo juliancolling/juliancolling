@@ -38,7 +38,7 @@ I'm passionate about using data to uncover insights, solve problems, and support
 
 ## 🔗 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/julian-colling-a644a11a1/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julian-colling)
 - 📫 Reach me: `juliancolling@icloud.com`
 
 ---
