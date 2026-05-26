@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julian Colling
 
-🎯 **Junior Data Analyst** with hands-on experience in data wrangling, visualisation, and AI tools — developed through an intensive 80-day Data Analytics & AI Bootcamp.
+🎯 **Junior Data Analyst** with hands-on experience in data wrangling, visualisation, and AI tools — developed through an intensive 16 Week Data Analytics & AI Bootcamp.
 
 I'm passionate about using data to uncover insights, solve problems, and support smarter decision-making. I'm continuously learning and eager to grow under mentorship in real-world environments.
 
