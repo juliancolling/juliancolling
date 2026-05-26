@@ -43,4 +43,4 @@ I'm passionate about using data to uncover insights, solve problems, and support
 
 ---
 
-_“Data is the new oil. I’m here to refine it.”_
+_“Data is the new oil. I’m here to understand it.”_
